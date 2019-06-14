@@ -1,12 +1,5 @@
 {
-    "title" : "Gitbook test",
-    "author" : "大师兄",
-    "description" : "记录Gitbook的配置和一些插件的使用",
-    "links" : {
-        "sidebar" : {
-            "Home" : "https://dsx2016.com"
-        }
-    },
+    "title" : "Gitbook Use",
     "plugins": [
         "back-to-top-button",
         "chapter-fold",
