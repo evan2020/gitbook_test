@@ -23,8 +23,7 @@
         "-sharing",
         "sharing-plus",
         "hide-element",
-        "donate",
-        "accordion"
+        "donate"
     ],
     "pluginsConfig": {
         "donate": {

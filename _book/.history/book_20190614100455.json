@@ -23,13 +23,12 @@
         "-sharing",
         "sharing-plus",
         "hide-element",
-        "donate",
-        "accordion"
+        "donate"
     ],
     "pluginsConfig": {
         "donate": {
-            "wechat": "https://file.smallzhiyun.com/0a81b02f90c2440a838156b3914682a4.jpg",
-            "alipay": "https://file.smallzhiyun.com/07a9c62d034f4eddea3fb5feb90ab126_%E5%89%AF%E6%9C%AC.jpg",
+            "wechat": "微信收款的二维码URL",
+            "alipay": "支付宝收款的二维码URL",
             "title": "",
             "button": "赏",
             "alipayText": "支付宝打赏",

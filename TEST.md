@@ -1,0 +1,7 @@
+# TEST
+
+```javascript
+%accordion%模块标题%accordion%
+内容部分
+%/accordion%
+```
